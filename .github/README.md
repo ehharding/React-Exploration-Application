@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
   <h1>
-    <a href="https://angular.io" target="_blank"><img alt="Angular.io" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100"/></a>
+    <a href="https://reactjs.org" target="_blank"><img alt="React.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100"/></a>
     <br>
     <span>React Exploration Application</span>
   </h1>
@@ -22,4 +22,4 @@
 A greenfield project to develop new frontend skills and learn React in particular.
 
 ## License
-[MIT](https://www.apache.org/licenses/MIT)
+[MIT](https://mit-license.org)

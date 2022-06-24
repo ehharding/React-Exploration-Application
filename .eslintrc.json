@@ -1,6 +1,6 @@
 {
   "root": true,
-  "env": { "browser": true, "jasmine": true, "node": true },
+  "env": { "browser": true, "jasmine": false, "node": true },
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaFeatures": {
