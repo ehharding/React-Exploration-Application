@@ -1,0 +1,20 @@
+/******************************************************************************************************************************************************************************
+ * This file holds global styles which can be used across the entire application. We use Bootstrap for easy and more flexible CSS and the SCSS language preprocessor for an
+ * enhanced CSS development experience. SCSS is SASS with explicit brackets '{ }'. This will always be compiled into CSS.
+ *
+ * Bootstrap - https://getbootstrap.com
+ * SASS Language Reference - https://sass-lang.com
+ *****************************************************************************************************************************************************************************/
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
