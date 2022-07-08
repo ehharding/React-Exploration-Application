@@ -1,7 +1,7 @@
 module.exports = {
   devtool: 'inline-source-map',
   entry: 'src/index.js',
-  output: { filename: 'consultant-dashboard-app.js' },
+  output: { filename: 'react-exploration-application.js' },
   resolve: { extensions: ['.css', '.js', '.ts', '.tsx'] },
   module: {
     rules: [

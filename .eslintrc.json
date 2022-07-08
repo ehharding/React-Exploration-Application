@@ -36,7 +36,7 @@
     "sourceType": "module"
   },
   "extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended", "plugin:import/recommended", "plugin:node/recommended"],
-  "ignorePatterns": ["*.html", "node_modules"],
+  "ignorePatterns": ["*.html", "node_modules", "src/index.js"],
   "plugins": ["@typescript-eslint", "import", "node", "tsdoc"],
   "rules": {
     "accessor-pairs": ["warn", { "enforceForClassMembers": true, "getWithoutSet": true, "setWithoutGet": true }],

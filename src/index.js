@@ -7,7 +7,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import REPORT_WEB_VITALS from 'reportWebVitals';
+import REPORT_WEB_VITALS from './reportWebVitals';
 
 import App from './App';
 import './index.scss';
